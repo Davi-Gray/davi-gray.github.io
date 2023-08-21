@@ -1,0 +1,26 @@
+/*
+    * Variables
+    * ==========================================================================
+    *
+*/
+
+/* Colors */
+
+:root {
+    --color-primary: #f9ed69;
+    --color-secondary: #f08a5d;
+    --color-tertiary: #b83b5e;
+    --color-quaternary: #6a2c70;
+    --color-quinary: #1b1b3a;
+    --color-brand-accent: #bc7ede;
+    --color-background: #f5f5f5;
+}
+
+/* Fonts */
+
+:root {
+    --font-primary: "Roboto", sans-serif;
+    --font-secondary: "Montserrat", sans-serif;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9jc3MvdmFyaWFibGVzLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7OztDQUlDOztBQUVELFdBQVc7O0FBQ1g7SUFDSSx3QkFBd0I7SUFDeEIsMEJBQTBCO0lBQzFCLHlCQUF5QjtJQUN6QiwyQkFBMkI7SUFDM0Isd0JBQXdCO0lBQ3hCLDZCQUE2QjtJQUM3QiwyQkFBMkI7QUFDL0I7O0FBRUEsVUFBVTs7QUFDVjtJQUNJLG9DQUFvQztJQUNwQywwQ0FBMEM7QUFDOUMiLCJmaWxlIjoidmFyaWFibGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gICAgKiBWYXJpYWJsZXNcbiAgICAqID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09XG4gICAgKlxuKi9cblxuLyogQ29sb3JzICovXG46cm9vdCB7XG4gICAgLS1jb2xvci1wcmltYXJ5OiAjZjllZDY5O1xuICAgIC0tY29sb3Itc2Vjb25kYXJ5OiAjZjA4YTVkO1xuICAgIC0tY29sb3ItdGVydGlhcnk6ICNiODNiNWU7XG4gICAgLS1jb2xvci1xdWF0ZXJuYXJ5OiAjNmEyYzcwO1xuICAgIC0tY29sb3ItcXVpbmFyeTogIzFiMWIzYTtcbiAgICAtLWNvbG9yLWJyYW5kLWFjY2VudDogI2JjN2VkZTtcbiAgICAtLWNvbG9yLWJhY2tncm91bmQ6ICNmNWY1ZjU7XG59XG5cbi8qIEZvbnRzICovXG46cm9vdCB7XG4gICAgLS1mb250LXByaW1hcnk6IFwiUm9ib3RvXCIsIHNhbnMtc2VyaWY7XG4gICAgLS1mb250LXNlY29uZGFyeTogXCJNb250c2VycmF0XCIsIHNhbnMtc2VyaWY7XG59XG4iXX0= */
